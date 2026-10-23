@@ -1,0 +1,7 @@
+Étape / Population,Nombre de lignes
+Lignes brutes initiales (sales_raw),252
+Doublons exacts supprimés,2
+Lignes rejetées pour non-validité (sales_review),7
+Lignes valides (sales_valid),243
+Exclus pour références manquantes ou erronées (integration_review),2
+Population analytique finale (analysis),241
